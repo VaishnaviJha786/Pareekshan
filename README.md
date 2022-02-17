@@ -10,7 +10,7 @@ After the collection and preprocessing of data.
 
 A three layered neural network was constructed and trained over 80% data.
 
-After testing it on remaing data, accuracy of 92.58% was received.
+After testing it on remaining data, accuracy of 92.58% was received.
 
 ## Libraries used
 
