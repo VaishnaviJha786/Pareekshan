@@ -30,3 +30,9 @@ To run the application type the following command in terminal
 streamlit run interface.py
 ```
 
+## Some Sample Output
+
+![SS1](Output-SS/1.png?raw=true "Output")
+![SS2](Output-SS/2.png?raw=true "Output")
+![SS3](Output-SS/3.png?raw=true "Output")
+
